@@ -1,0 +1,26 @@
+#
+# ADDITIONAL SYSTEM EUCLID PROPERTIES
+#
+ro.oppo.ad_test_sys=1
+ro.build.date.Ymd=200106
+ro.build.date.ymd=200106
+ro.build.date.YmdHM=202001061217
+ro.xxversion=V0.5
+ro.oppo.version=
+persist.sys.timezone=Asia/Shanghai
+persist.sys.oppo.region=CN
+ro.build.master.date=202001061217
+persist.sys.disable_rescue=true
+ro.appsflyer.preinstall.path=/data/etc/appchannel/pre_install.appsflyer
+ro.trackingId.com.lzd.appid=/data/etc/appchannel/lazadaChannel.txt
+ro.trackingId.com.daraz.appid=/data/etc/appchannel/darazChannel.txt
+ro.trackingId.com.shop.appid=/data/etc/appchannel/shopChannel.txt
+persist.sys.oem_smooth=1
+persist.sys.nw_lab_test=0
+persist.sys.cfu_auto=1
+persist.sys.nw_mbn_icon=0
+persist.sys.adddevdiag=0
+persist.vendor.radio.rat_on=other
+persist.vendor.radio.poweron_opt=1
+persist.radio.hvolte.enable=1
+persist.vendor.radio.wait_for_pbm=1

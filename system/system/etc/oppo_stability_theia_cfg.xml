@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<filter-conf>
+    <version>2019090520</version>
+    <isOpen>1</isOpen>
+    <filter-name>oppo_stability_theia_cfg</filter-name>
+    <noFocusWindow>1</noFocusWindow>
+</filter-conf>

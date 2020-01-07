@@ -1,0 +1,8 @@
+service gatekeeperd /system/bin/gatekeeperd /data/misc/gatekeeper
+    class late_start
+    user system
+#ifdef VENDOR_EDIT
+#Ping.Liu@BSP.Fingerprint.Secure 2019/11/28, add for [write /proc/sysrq-trigger] need system group.
+    group system
+#endif /* VENDOR_EDIT */
+    writepid /dev/cpuset/system-background/tasks
