@@ -1,0 +1,4 @@
+require version-baseband=1.0.c8.6-00078-SAIPAN_GEN_PACK-1
+require version-modem=2020-01-0614:00:25
+require version-trustzone=TZ.XF.5.0-244417
+require version-vendor=1578290596
